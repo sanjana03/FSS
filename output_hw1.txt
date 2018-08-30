@@ -1,0 +1,83 @@
+
+-----| testing_whitespace |-----------------------
+# pass
+
+-----| testing_regularexp |-----------------------
+# pass
+
+-----| testing_integerdivision |-----------------------
+# pass
+
+-----| testing_square |-----------------------
+# pass
+
+-----| testing_string |-----------------------
+# pass
+
+-----| testing_exceptionhandling |-----------------------
+# pass
+
+-----| testing_list |-----------------------
+# pass
+
+-----| testing_extendinglist |-----------------------
+# pass
+
+-----| testing_tupleproduct |-----------------------
+# pass
+
+-----| testing_dictionary1 |-----------------------
+# pass
+
+-----| testing_addelement |-----------------------
+# pass
+
+-----| testing_dictionaryvalue |-----------------------
+# pass
+
+-----| testing_counter |-----------------------
+# pass
+
+-----| testing_set |-----------------------
+# pass
+
+-----| testing_ifelse |-----------------------
+# pass
+
+-----| testing_all |-----------------------
+# pass
+
+-----| testing_sorting |-----------------------
+# pass
+
+-----| testing_listcomprehensions |-----------------------
+# pass
+
+-----| testing_generators |-----------------------
+# pass
+
+-----| testing_random |-----------------------
+# pass
+
+-----| testing_searchregex |-----------------------
+# pass
+
+-----| testing_partialfn |-----------------------
+# pass
+
+-----| testing_filter |-----------------------
+# pass
+
+-----| testing_enumerate |-----------------------
+# pass
+
+-----| testing_zip |-----------------------
+# pass
+
+-----| testing_fnasparameter |-----------------------
+# pass
+
+-----| testing_args |-----------------------
+# pass
+
+# pass= 27 fail= 0 %pass = 100%
