@@ -1,4 +1,3 @@
-from test import O
 from num import Num
 from sym import Sym
 from dom import dom, doms
@@ -116,20 +115,11 @@ def super(data, goal=None, enough=None):
 			if sd_current < sd_min:
 				sd_min = sd_current
 				splitter = data.name[index]
-	print("Splitter attribute is ", splitter)
-	print("Expected standard deviation is ", sd_min,"\n")
+	print("Splitter attribute : ", splitter)
+	print("Expected Standard Deviation(SD) : ", sd_min,"\n")
 
 
 def wrapper(s):
 	# Wrapper class for super
 	super(doms(rows(s)))
 
-# Test function
-@O.k
-def testing():
-	print("\nFor weatherLong.csv")
-	wrapper('weatherLong.csv')
-	print ("-------------------------------------------")
-	print("\nFor auto.csv")
-	wrapper('auto.csv')
-	print ("-------------------------------------------")
