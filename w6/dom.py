@@ -45,6 +45,7 @@ def doms(t):
             s = dom(t, row1, row2) and 1/n or 0
             row1[c] = row1[c] + s
     dump(t.rows)
+    return t
 
 def mainDom(file):
     doms(rows(file))
