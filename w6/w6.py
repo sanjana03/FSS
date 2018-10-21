@@ -1,7 +1,5 @@
 from test import O
-from dom import mainDom
 from super import wrapper
-import re, sys, random, math
 
 # Test function
 @O.k
